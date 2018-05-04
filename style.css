@@ -1,0 +1,111 @@
+		.beige{ background: #efede1;}
+		.wrap{ width: 1519px; margin: auto; position: relative;}
+		#back1{ height: 1711px;}
+		#back2{ height: 2495px;}
+		#back3{ background: url('./img2/background-3.jpg'); background-size: 100% auto; height: 821px;}
+		#back4{ height: 2392px;}
+		#back5{ height: 1516px;}
+		#back6{ height: 315px;}
+
+
+		h1,h6-1{font-family: 'Source Serif Pro', serif; font-weight:1000}
+		h2,h3,h4,h5,h5-1,h6,p,p2,p2-1,p3,p9{ font-family: "source-han-serif-korean",serif; font-weight:420}
+		h7,h7-1,p4,p5,p6,p7{ font-family: "source-han-serif-korean",serif; font-weight:600}
+
+		h1 {font-size: 6.9em; position: absolute; font-weight: bolder; text-align: center; letter-spacing: 5.5px;}
+		h2 {font-size: 3em; position: absolute; font-weight: bold; text-align: center; letter-spacing: -0.2px;}
+		h3 {font-size: 4em; position: absolute; line-height: 168%; font-weight: bolder; letter-spacing: -0.5px;}
+		h4,p,p3 { font-size: 1.4em; position: absolute; line-height: 179%; letter-spacing: -0.75px;}
+		h4 { text-decoration: underline; font-weight: bold;}
+		h5,h5-1 { font-size: 1.5em; position: absolute; line-height: 1.5; text-decoration: underline; font-weight: bold;}
+		h5-1 {color: white;}
+		h7,h7-1 {font-size: 8.2em; position: absolute; letter-spacing: -2px; font-weight: bold;}
+		h7-1 {color: white;}
+		h6 {font-size: 0.88em; position: absolute; line-height: 170%; font-weight: bold; letter-spacing: -0.5px;}
+		h6-1 {font-size: 1.55em; position: absolute; line-height: 105%; font-weight: bolder;}
+		p2,p2-1 { font-size: 1em; position: absolute; line-height: 190%; letter-spacing: 0.1px;}
+		p2-1 {color: white;} 
+		p4 { font-size: 1.55em; position: absolute; line-height: 320%; letter-spacing: 0.5px;}
+		p5,p6,p7 { font-size: 1.35em; position: absolute; line-height: 155%; letter-spacing: -0.17px;}
+		p5 {font-weight: bolder;}
+		p6 {text-align: center;}
+		p7 {text-align: right; font-weight: bold;}
+		p8 {font-size: 1.9em; position: absolute; line-height: 263%; font-weight: bolder;}
+		p9 {font-size: 0.85em; position: absolute; letter-spacing: -0.1px; color: #ABABAB;}
+
+
+		/*header*/
+		header h2{ top: 386px; left: 415px;}
+		header h1{ top: 483px; left: 435px;}
+		header h4{ top: 1105px; left: 564px;}
+		header p{ top: 1151px; left: 564px;}
+		header h6{ top: 1106px; left: 186px;}
+		header #menu0{top: 99px; left: 236px;}
+		header #menu1{top: 63px; left: 568px;}
+		header #menu2{top: 63px; left: 759px;}
+		header #menu3{top: 63px; left: 950px;}
+		header #menu4{top: 63px; left: 1140px;}
+		#lobster1 {width:44px; position: absolute; top: 93px; left: 185px;}
+		#logo {width: 72px; position: absolute; top: 72px; left: 1341px;}
+		#line0 {position: absolute; top: 78px; left: 188px;}
+		#line1 {position: absolute; top: 78px; left: 568px;}
+		#line2 {position: absolute; top: 78px; left: 759px;}
+		#line3 {position: absolute; top: 78px; left: 950px;}
+		#line4 {position: absolute; top: 78px; left: 1140px;}
+		#woman {width: 581px; position: absolute; top: 277px; left: 2px;}
+		#man {width: 574px; position: absolute; top: 263px; right: -23px;}
+
+
+		/*contents1*/
+		#contents1 h5{width: 350px;}
+		#contents1 p2{width: 358px;}
+		#contents1 #h6{top: 160px; left: 186px;}
+		#contents1 #h0{top: 108px; left: 567px;}
+		#contents1 #line1{top: 521px; left: 567px;}
+		#contents1 #number1{top: 546px; left: 566px;}
+		#contents1 #h1{top: 720px; left: 574px;}
+		#contents1 #h11{top: 760px; left: 574px;}
+		#contents1 #p1{top: 810px; left: 574px;}
+		#contents1 #line2{top: 521px; left: 949px;}
+		#contents1 #number2{top: 546px; left: 944px;}
+		#contents1 #h2{top: 720px; left: 953px;}
+		#contents1 #p2{top: 810px; left: 953px;}
+		#contents1 #line3{top: 1437px; left: 185px;}
+		#contents1 #number3{top: 1461px; left: 184px;}
+		#contents1 #h3{top: 1636px; left: 193px;}
+		#contents1 #p3{top: 1726px; left: 193px;}
+		#contents1 #line4{top: 1437px; left: 567px;}
+		#contents1 #number4{top: 1461px; left: 562px;}
+		#contents1 #h4{top: 1636px; left: 572px;}
+		#contents1 #p4{top: 1726px; left: 572px;}
+		#contents1 #movie1{width:827px; position: absolute; top: 468px; left: -105px;}
+		#contents1 #cap1{top: 932px; left: 126px;}
+		#contents1 #movie2{width:506px; position: absolute; bottom: 625px; right: 70px;}
+		#contents1 #cap2{bottom: 598px; right: 178px;}
+		#contents1 #movie3{width:506px; position: absolute; bottom: 294px; right: 70px;}
+		#contents1 #cap3{bottom: 267px; right: 194px;}
+		#contents1 #line0{width: 548px; position: absolute; top: 1557px; left: 942px;}
+
+		/*contents2*/
+		#contents2 p3{width: 980px;}
+		#contents2 #h6{top: 202px; left: 186px;}
+		#contents2 #h{top: 152px; left: 567px;}
+		#contents2 #p{top: 562px; left: 570px;}
+		#contents2 #line{width: 806px; position: absolute; top: 508px; left: 566px;}
+		#contents2 #lobster{width: 1032px; position: absolute; bottom: 105px; left: -493px;}
+		#contents2 #lobster2{width: 56px; position: absolute; top: 1344px; right: 537px;}
+
+		/*contents3*/
+		#contents3 #h6{top: 165px; left: 186px;}
+		#contents3 #h{top: 114px; left: 567px;}
+		#contents3 #p0{top: 502px; left: 441px;}
+		#contents3 #p{top: 500px; left: 566px;}
+		#contents3 #line{width: 806px; position: absolute; top: 471px; left: 566px;}
+
+
+		/*footer*/
+		footer p6{width: 400px;}
+		footer #p1{top: 124px; left: 75px;}
+		footer #p2{top: 124px; left: 559px;}
+		footer #p3{top: 124px; right: 75px;}
+		footer #line{width: 1148px; position: absolute; top: 6px; left: 186px;}
